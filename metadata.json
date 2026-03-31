@@ -1,0 +1,9 @@
+{
+  "name": "Fé Autos",
+  "description": "A fé que te move - Venda de veículos novos e seminovos com qualidade e confiança.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "buildCommand": "npm run build && npm run prisma:migrate:deploy && npm run prisma:seed",
+  "devCommand": "npm run dev",
+  "env": {
+    "NODE_ENV": "production"
+  }
+}
